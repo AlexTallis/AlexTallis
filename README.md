@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AlexTallis
-- 👀 I’m interested in ... everything
+- 👋 Hi, I’m @AlexTallis 
+- 👀 I’m interested in Statistics, Machine Learning, Quantitative Research, Quantum computing
 - 📫 How to reach me ... alextallis33@gmail.com
 
-<!---
-AlexTallis/AlexTallis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
